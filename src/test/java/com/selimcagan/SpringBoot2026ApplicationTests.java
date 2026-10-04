@@ -1,4 +1,4 @@
-package com.selimcagan.springboot2026;
+package com.selimcagan;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
